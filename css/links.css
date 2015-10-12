@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+#links {
+	max-width: 800px;
+	margin: 0px auto 20px;
+}
+
+#links a {
+	padding: 6px 16px;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1;
+	color: #555;
+	text-align: center;
+	border: 1px solid #d5d6d7;
+	border-radius: 16px;
+	background-color: transparent;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	display: inline-block;
+	outline: none;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+#links a:hover {
+	background-color: #E0E1E2;
+	text-decoration: none;
+	cursor: pointer;
+}
